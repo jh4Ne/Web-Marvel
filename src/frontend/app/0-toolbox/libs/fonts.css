@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'manrope';
+    src: url('../../../assets/fonts/manrope-light/manrope-light.eot');
+    src: url('../../../assets/fonts/manrope-light/manrope-light.eot?#iefix') format('embedded-opentype'),
+         url('../../../assets/fonts/manrope-light/manrope-light.woff2') format('woff2'),
+         url('../../../assets/fonts/manrope-light/manrope-light.woff') format('woff'),
+         url('../../../assets/fonts/manrope-light/manrope-light.ttf') format('truetype'),
+         url('../../../assets/fonts/manrope-light/manrope-light.svg#manrope') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'manrope';
+    src: url('../../../assets/fonts/manrope-regular/manrope-regular.eot');
+    src: url('../../../assets/fonts/manrope-regular/manrope-regular.eot?#iefix') format('embedded-opentype'),
+         url('../../../assets/fonts/manrope-regular/manrope-regular.woff2') format('woff2'),
+         url('../../../assets/fonts/manrope-regular/manrope-regular.woff') format('woff'),
+         url('../../../assets/fonts/manrope-regular/manrope-regular.ttf') format('truetype'),
+         url('../../../assets/fonts/manrope-regular/manrope-regular.svg#manrope') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'manrope';
+    src: url('../../../assets/fonts/manrope-bold/manrope-boald.eot');
+    src: url('../../../assets/fonts/manrope-bold/manrope-boald.eot?#iefix') format('embedded-opentype'),
+         url('../../../assets/fonts/manrope-bold/manrope-boald.woff2') format('woff2'),
+         url('../../../assets/fonts/manrope-bold/manrope-boald.woff') format('woff'),
+         url('../../../assets/fonts/manrope-bold/manrope-boald.ttf') format('truetype'),
+         url('../../../assets/fonts/manrope-bold/manrope-boald.svg#manrope') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}

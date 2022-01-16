@@ -1,0 +1,84 @@
+
+img {
+    width: 300px;
+    border-bottom-style: solid;
+}
+.personagem{
+    width: 300px;
+    margin: 20px;
+    border-style: solid;
+    border-radius: 16px;
+    text-align: center;
+}
+.Marvel-tilde{
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 0px;;
+
+background: #22262A;
+}
+.img-marvel-tilde{
+position: absolute;
+width: 296px;
+height: 40px;
+left: 572px;
+top: 0px;
+}
+.img-marvel{
+position: absolute;
+width:fit-content;
+height:inherit;
+left: 0px;
+top: 0px;
+}
+.marvel-fondo{
+position: absolute;
+width: fit-content;
+height: 1083px;
+left: 0px;
+top: 40px;
+}
+.img-fondo{
+position: absolute;
+width: 1440px;
+height: 1083px;
+left: 0px;
+top: 40px;
+filter:opacity(20%);
+
+}
+body{
+    background-color: #ffffff;
+}
+div {
+    box-sizing: border-box;
+    width: fit-content;
+    height: max-content;
+
+}
+a{
+    position: absolute;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: red;
+    width: 100%;
+}
+.marvel-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around ;
+}
+
+/************ COMIC ***********/
+.comic-hero{
+position: absolute;
+width: 529px;
+height: 964px;
+left: -36px;
+top: 100px;
+background: #000;
+border-radius: 0px 900px 900px 0px;
+}
